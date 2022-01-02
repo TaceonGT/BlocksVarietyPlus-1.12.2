@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "B B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:planks",
+            "data": 2
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:birch_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "E",
+        "S"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "bvp:elm_planks"
+        },
+        
+        "S":
+        {
+            "item": "bvp:elm_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:elm_hatchet",
+        "count": 1
+    }
+}

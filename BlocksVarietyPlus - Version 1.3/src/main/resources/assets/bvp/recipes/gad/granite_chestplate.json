@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G G",
+        "GGG",
+        "GGG"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:stone",
+            "data": 1
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:granite_chestplate",
+        "count": 1
+    }
+}

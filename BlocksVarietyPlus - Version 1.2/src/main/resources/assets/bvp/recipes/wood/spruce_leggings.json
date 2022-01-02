@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "S S",
+        "S S"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:planks",
+            "data": 1
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:spruce_leggings",
+        "count": 1
+    }
+}

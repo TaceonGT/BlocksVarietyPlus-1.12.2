@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "O O",
+        "O O"
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:oak_boots",
+        "count": 1
+    }
+}

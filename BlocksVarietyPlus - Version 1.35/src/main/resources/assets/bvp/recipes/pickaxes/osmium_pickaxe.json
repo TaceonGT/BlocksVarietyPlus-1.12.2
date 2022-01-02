@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OOO",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "bvp:osmium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:osmium_pickaxe",
+        "count": 1
+    }
+}

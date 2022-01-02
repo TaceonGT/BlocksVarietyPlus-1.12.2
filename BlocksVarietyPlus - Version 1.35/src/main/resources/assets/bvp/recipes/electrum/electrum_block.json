@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "EEE",
+        "EEE",
+        "EEE"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "bvp:electrum_ingot"
+        },
+    },
+    
+    "result":
+    {
+        "item": "bvp:electrum_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G",
+        "G",
+        "S"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:stone",
+            "data": 1
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:granite_sword",
+        "count": 1
+    }
+}

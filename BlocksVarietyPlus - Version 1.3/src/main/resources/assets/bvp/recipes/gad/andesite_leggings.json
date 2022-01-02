@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:stone",
+            "data": 5
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:andesite_leggings",
+        "count": 1
+    }
+}

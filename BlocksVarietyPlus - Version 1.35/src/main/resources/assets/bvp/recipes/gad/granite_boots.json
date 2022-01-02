@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G G",
+        "G G"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:stone",
+            "data": 1
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:granite_boots",
+        "count": 1
+    }
+}

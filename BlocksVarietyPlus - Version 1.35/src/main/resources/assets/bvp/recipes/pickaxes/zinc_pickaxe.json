@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ZZZ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "Z":
+        {
+            "item": "bvp:zinc_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:zinc_pickaxe",
+        "count": 1
+    }
+}

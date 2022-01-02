@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "U":
+        {
+            "item": "bvp:uranium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:uranium_pickaxe",
+        "count": 1
+    }
+}

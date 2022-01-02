@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bvp",
+  "name": "Blocks Variety Plus",
+  "description": "A mod that adds many new blocks and items to your game. Useful for those who are looking to add more variety to their builds.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ridebuilder5"],
+  "credits": "All the people at Mojang for creating Minecraft, Loremaster, Harry Talks and bright_spark for helping me learn Minecraft modding, Biomes O' Plenty (Inspiration)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "O",
+        "S"
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:planks"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:oak_hatchet",
+        "count": 1
+    }
+}

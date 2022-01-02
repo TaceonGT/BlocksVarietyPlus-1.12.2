@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  C",
+        " C ",
+        "S  "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "bvp:cherry_planks"
+        },
+        
+        "S":
+        {
+            "item": "bvp:cherry_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:cherry_katana",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "EEE",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "bvp:electrum_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:electrum_pickaxe",
+        "count": 1
+    }
+}

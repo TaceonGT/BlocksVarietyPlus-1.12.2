@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "J J",
+        "JJJ",
+        "JJJ"
+    ],
+    
+    "key":
+    {
+        "J":
+        {
+            "item": "minecraft:planks",
+            "data": 3
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:jungle_chestplate",
+        "count": 1
+    }
+}

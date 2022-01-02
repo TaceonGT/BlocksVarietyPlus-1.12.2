@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        "TTT",
+        "TTT"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "bvp:tin_ingot"
+        },
+    },
+    
+    "result":
+    {
+        "item": "bvp:tin_block",
+        "count": 1
+    }
+}

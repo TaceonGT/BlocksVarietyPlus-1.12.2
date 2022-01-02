@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL",
+        "LLL",
+        "LLL"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "bvp:lead_ingot"
+        },
+    },
+    
+    "result":
+    {
+        "item": "bvp:lead_block",
+        "count": 1
+    }
+}

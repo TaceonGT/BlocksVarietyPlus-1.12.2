@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "bvp:lead_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:lead_pickaxe",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "J J",
+        "J J"
+    ],
+    
+    "key":
+    {
+        "J":
+        {
+            "item": "minecraft:planks",
+            "data": 3
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:jungle_boots",
+        "count": 1
+    }
+}

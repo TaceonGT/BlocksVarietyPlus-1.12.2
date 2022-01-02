@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "JJJ",
+        "J J",
+        "J J"
+    ],
+    
+    "key":
+    {
+        "J":
+        {
+            "item": "minecraft:planks",
+            "data": 3
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:jungle_leggings",
+        "count": 1
+    }
+}

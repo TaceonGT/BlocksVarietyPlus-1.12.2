@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D D",
+        "DDD",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:planks",
+            "data": 5
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:darkoak_chestplate",
+        "count": 1
+    }
+}

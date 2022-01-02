@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " DD",
+        " SD",
+        "S  "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:stone",
+            "data": 3
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:diorite_hammer",
+        "count": 1
+    }
+}

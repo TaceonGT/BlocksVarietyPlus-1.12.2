@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "D D",
+        "D D"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:stone",
+            "data": 3
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:diorite_leggings",
+        "count": 1
+    }
+}

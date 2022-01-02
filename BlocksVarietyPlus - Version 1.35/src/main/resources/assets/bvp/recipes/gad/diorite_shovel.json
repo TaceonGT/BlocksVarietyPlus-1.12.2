@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:stone",
+            "data": 3
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:diorite_shovel",
+        "count": 1
+    }
+}

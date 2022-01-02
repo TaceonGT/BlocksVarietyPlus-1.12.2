@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MM",
+        "MM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "bvp:marble"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:polished_marble",
+        "count": 4
+    }
+}

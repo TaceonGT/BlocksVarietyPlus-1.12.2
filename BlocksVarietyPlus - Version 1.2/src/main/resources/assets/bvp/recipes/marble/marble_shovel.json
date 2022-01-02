@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "bvp:marble"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:marble_shovel",
+        "count": 1
+    }
+}

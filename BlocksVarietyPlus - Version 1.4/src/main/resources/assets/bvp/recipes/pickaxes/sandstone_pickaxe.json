@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        " T ",
+        " T "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:sandstone"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:sandstone_pickaxe",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "J",
+        "S"
+    ],
+    
+    "key":
+    {
+        "J":
+        {
+            "item": "minecraft:planks",
+            "data": 3
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:jungle_hatchet",
+        "count": 1
+    }
+}

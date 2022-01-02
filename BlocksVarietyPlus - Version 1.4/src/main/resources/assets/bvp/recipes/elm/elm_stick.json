@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "E",
+        "E"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "bvp:elm_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:elm_stick",
+        "count": 4
+    }
+}

@@ -1,0 +1,157 @@
+//Items
+item.elm_stick.name=Elm Stick
+item.cherry_stick.name=Cherry Stick
+
+item.aluminum_ingot.name=Aluminum Ingot
+item.copper_ingot.name=Copper Ingot
+item.electrum_ingot.name=Electrum Ingot
+item.lead_ingot.name=Lead Ingot
+item.osmium_ingot.name=Osmium Ingot
+item.tin_ingot.name=Tin Ingot
+item.uranium_ingot.name=Uranium Ingot
+item.zinc_ingot.name=Zinc Ingot
+
+//Blocks
+tile.elm_log.name=Elm Log
+tile.elm_planks.name=Elm Planks
+
+tile.cherry_log.name=Cherry Log
+tile.cherry_planks.name=Cherry Planks
+
+tile.marble.name=Marble
+tile.polished_marble.name=Polished Marble
+
+tile.aluminum_ore.name=Aluminum Ore
+tile.aluminum_block.name=Aluminum Block
+
+tile.copper_ore.name=Copper Ore
+tile.copper_block.name=Copper Block
+
+tile.electrum_ore.name=Electrum Ore
+tile.electrum_block.name=Electrum Block
+
+tile.lead_ore.name=Lead Ore
+tile.lead_block.name=Lead Block
+
+tile.osmium_ore.name=Osmium Ore
+tile.osmium_block.name=Osmium Block
+
+tile.tin_ore.name=Tin Ore
+tile.tin_block.name=Tin Block
+
+tile.uranium_ore.name=Uranium Ore
+tile.uranium_block.name=Uranium Block
+
+tile.zinc_ore.name=Zinc Ore
+tile.zinc_block.name=Zinc Block
+
+//Tools
+item.flint_hatchet.name=Flint Hatchet
+
+item.elm_sword.name=Elm Sword
+item.elm_shovel.name=Elm Shovel
+item.elm_pickaxe.name=Elm Pickaxe
+item.elm_hoe.name=Elm Hoe
+item.elm_axe.name=Elm Axe
+
+item.cherry_sword.name=Cherry Sword
+item.cherry_shovel.name=Cherry Shovel
+item.cherry_pickaxe.name=Cherry Pickaxe
+item.cherry_hoe.name=Cherry Hoe
+item.cherry_axe.name=Cherry Axe
+
+item.marble_sword.name=Marble Sword
+item.marble_shovel.name=Marble Shovel
+item.marble_pickaxe.name=Marble Pickaxe
+item.marble_hoe.name=Marble Hoe
+item.marble_axe.name=Marble Axe
+
+item.granite_sword.name=Granite Sword
+item.granite_shovel.name=Granite Shovel
+item.granite_pickaxe.name=Granite Pickaxe
+item.granite_hoe.name=Granite Hoe
+item.granite_axe.name=Granite Axe
+
+item.andesite_sword.name=Andesite Sword
+item.andesite_shovel.name=Andesite Shovel
+item.andesite_pickaxe.name=Andesite Pickaxe
+item.andesite_hoe.name=Andesite Hoe
+item.andesite_axe.name=Andesite Axe
+
+item.diorite_sword.name=Diorite Sword
+item.diorite_shovel.name=Diorite Shovel
+item.diorite_pickaxe.name=Diorite Pickaxe
+item.diorite_hoe.name=Diorite Hoe
+item.diorite_axe.name=Diorite Axe
+
+item.elm_katana.name=Elm Katana
+item.cherry_katana.name=Cherry Katana
+
+item.sandstone_pickaxe.name=Sandstone Pickaxe
+item.netherrack_pickaxe.name=Netherrack Pickaxe
+
+item.zinc_pickaxe.name=Zinc Pickaxe
+item.tin_pickaxe.name=Tin Pickaxe
+item.aluminum_pickaxe.name=Aluminum Pickaxe
+item.copper_pickaxe.name=Copper Pickaxe
+item.lead_pickaxe.name=Lead Pickaxe
+item.osmium_pickaxe.name=Osmium Pickaxe
+item.electrum_pickaxe.name=Electrum Pickaxe
+item.uranium_pickaxe.name=Uranium Pickaxe
+
+//Armor
+item.oak_helmet.name=Oak Helmet
+item.oak_chestplate.name=Oak Chestplate
+item.oak_leggings.name=Oak Leggings
+item.oak_boots.name=Oak Boots
+
+item.spruce_helmet.name=Spruce Helmet
+item.spruce_chestplate.name=Spruce Chestplate
+item.spruce_leggings.name=Spruce Leggings
+item.spruce_boots.name=Spruce Boots
+
+item.birch_helmet.name=Birch Helmet
+item.birch_chestplate.name=Birch Chestplate
+item.birch_leggings.name=Birch Leggings
+item.birch_boots.name=Birch Boots
+
+item.jungle_helmet.name=Jungle Helmet
+item.jungle_chestplate.name=Jungle Chestplate
+item.jungle_leggings.name=Jungle Leggings
+item.jungle_boots.name=Jungle Boots
+
+item.acacia_helmet.name=Acacia Helmet
+item.acacia_chestplate.name=Acacia Chestplate
+item.acacia_leggings.name=Acacia Leggings
+item.acacia_boots.name=Acacia Boots
+
+item.darkoak_helmet.name=Dark Oak Helmet
+item.darkoak_chestplate.name=Dark Oak Chestplate
+item.darkoak_leggings.name=Dark Oak Leggings
+item.darkoak_boots.name=Dark Oak Boots
+
+item.stone_helmet.name=Stone Helmet
+item.stone_chestplate.name=Stone Chestplate
+item.stone_leggings.name=Stone Leggings
+item.stone_boots.name=Stone Boots
+
+item.granite_helmet.name=Granite Helmet
+item.granite_chestplate.name=Granite Chestplate
+item.granite_leggings.name=Granite Leggings
+item.granite_boots.name=Granite Boots
+
+item.andesite_helmet.name=Andesite Helmet
+item.andesite_chestplate.name=Andesite Chestplate
+item.andesite_leggings.name=Andesite Leggings
+item.andesite_boots.name=Andesite Boots
+
+item.diorite_helmet.name=Diorite Helmet
+item.diorite_chestplate.name=Diorite Chestplate
+item.diorite_leggings.name=Diorite Leggings
+item.diorite_boots.name=Diorite Boots
+
+//Tabs
+itemGroup.blocksvarietyplustoolstab=BVP Tools Tab
+itemGroup.blocksvarietyplusblockstab=BVP Blocks Tab
+itemGroup.blocksvarietypluscombattab=BVP Combat Tab
+itemGroup.blocksvarietyplusmaterialstab=BVP Materials Tab

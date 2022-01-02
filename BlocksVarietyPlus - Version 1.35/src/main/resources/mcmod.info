@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bvp",
+  "name": "Blocks Variety Plus",
+  "description": "A mod that adds new woods, stones, ores, and more to your game. Useful for those who wish to have more variety in blocks for their building purposes, and enhances survival play.",
+  "version": "1.35",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ridebuilder5"],
+  "credits": "All the people at Mojang for creating Minecraft, Loremaster, Harry Talks and bright_spark for helping me learn Minecraft modding, Biomes O' Plenty (Inspiration)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

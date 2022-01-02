@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "S"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:planks",
+            "data": 5
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:dark_oak_hatchet",
+        "count": 1
+    }
+}

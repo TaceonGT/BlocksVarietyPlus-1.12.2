@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:stone",
+            "data": 3
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:diorite_pickaxe",
+        "count": 1
+    }
+}

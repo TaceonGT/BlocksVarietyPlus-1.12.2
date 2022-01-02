@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:stone",
+            "data": 5
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:andesite_helmet",
+        "count": 1
+    }
+}

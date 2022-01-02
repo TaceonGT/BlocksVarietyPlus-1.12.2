@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "P",
+        "S"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "minecraft:planks",
+            "data": 1
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:spruce_hatchet",
+        "count": 1
+    }
+}

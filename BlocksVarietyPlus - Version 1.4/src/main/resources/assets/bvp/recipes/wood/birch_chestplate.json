@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "BBB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:planks",
+            "data": 2
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:birch_chestplate",
+        "count": 1
+    }
+}

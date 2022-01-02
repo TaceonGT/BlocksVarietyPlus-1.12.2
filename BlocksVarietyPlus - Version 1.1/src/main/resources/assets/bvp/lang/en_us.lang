@@ -1,0 +1,40 @@
+//Items
+item.elm_stick.name=Elm Stick
+item.cherry_stick.name=Cherry Stick
+
+//Blocks
+tile.elm_log.name=Elm Log
+tile.elm_planks.name=Elm Planks
+
+tile.cherry_log.name=Cherry Log
+tile.cherry_planks.name=Cherry Planks
+
+tile.marble.name=Marble
+tile.polished_marble.name=Polished Marble
+
+//Tools
+item.flint_hatchet.name=Flint Hatchet
+
+item.elm_sword.name=Elm Sword
+item.elm_shovel.name=Elm Shovel
+item.elm_pickaxe.name=Elm Pickaxe
+item.elm_hoe.name=Elm Hoe
+item.elm_axe.name=Elm Axe
+
+item.cherry_sword.name=Cherry Sword
+item.cherry_shovel.name=Cherry Shovel
+item.cherry_pickaxe.name=Cherry Pickaxe
+item.cherry_hoe.name=Cherry Hoe
+item.cherry_axe.name=Cherry Axe
+
+item.marble_sword.name=Marble Sword
+item.marble_shovel.name=Marble Shovel
+item.marble_pickaxe.name=Marble Pickaxe
+item.marble_hoe.name=Marble Hoe
+item.marble_axe.name=Marble Axe
+
+//Tabs
+itemGroup.blocksvarietyplustoolstab=BVP Tools Tab
+itemGroup.blocksvarietyplusblockstab=BVP Blocks Tab
+itemGroup.blocksvarietypluscombattab=BVP Combat Tab
+itemGroup.blocksvarietyplusmaterialstab=BVP Materials Tab

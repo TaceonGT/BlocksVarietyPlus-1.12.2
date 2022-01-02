@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "minecraft:netherrack"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bvp:netherrack_pickaxe",
+        "count": 1
+    }
+}

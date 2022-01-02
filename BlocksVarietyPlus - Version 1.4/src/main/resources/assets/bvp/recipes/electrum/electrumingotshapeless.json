@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "bvp:electrum_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "bvp:electrum_ingot",
+        "count": 9
+    }
+}
